@@ -6,7 +6,8 @@ A simple html (java script) overlay for OBS to display Dance Pad inputs (any gam
 **1)** Add a new **Browser** source<br>
 **2)** Name it whatever you want and click **OK**<br>
 **3)** In the **URL** box, enter the path to where you put **renderer.html**, **texture.png** must also be there<br>
-Also enter the **Width** and **Height**, here it's **260** for both
+Also enter the **Width** and **Height**, here it's **260** for both<br>
+Click **OK** to update what's shown
 
 ![StepsToDo](https://imgur.com/ODiiegc.png)<br>
 
